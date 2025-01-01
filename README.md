@@ -4,7 +4,7 @@ In this Dataset, we have Historical Population data for every Country/Territory 
 like Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population Growth
 Rate, Ranking based on Population, World Population Percentage, etc.
 
-Goal: 
+Goal:   
 The goal of this project is to analyze global population trends using historical data and
 predict future population growth. This involves using machine learning techniques to
 explore demographic data, identify key factors influencing population changes, and build
