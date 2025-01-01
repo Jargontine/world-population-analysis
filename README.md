@@ -4,13 +4,13 @@ In this Dataset, we have Historical Population data for every Country/Territory 
 like Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population Growth
 Rate, Ranking based on Population, World Population Percentage, etc.
 
-Goal
+Goal: 
 The goal of this project is to analyze global population trends using historical data and
 predict future population growth. This involves using machine learning techniques to
 explore demographic data, identify key factors influencing population changes, and build
 predictive models.
 
-Context 
+Context:  
 The current US Census Bureau world population estimate in June 2019 shows that the current global population is
 7,577,130,400 people on earth, which far exceeds the world population of 7.2 billion in 2015. Our own estimate
 based on UN data shows the world's population surpassing 7.7 billion.
